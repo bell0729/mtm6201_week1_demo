@@ -1,2 +1,6 @@
 # mtm6201_week1_demo
-This is a perfectly good idea for a description
+## week 1
+we are learning about following topics:
+- course overview
+- creating Git repository
+- setting up Github pages
